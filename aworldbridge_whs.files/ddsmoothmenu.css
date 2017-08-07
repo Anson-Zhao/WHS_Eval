@@ -163,7 +163,7 @@
 
 #sitemenu-content ul .submenu-indicator {
 	display: inline-block;
-	background: url(down.gif) center center no-repeat;
+	/*background: url(down.gif) center center no-repeat;*/
 	width: 11px;
 	height: 8px;
 	padding: 0 0 0 3px;
@@ -173,7 +173,7 @@
 #sitemenu-content.ddsmoothmenu-v ul .submenu-indicator,
 #sitemenu-content ul ul .submenu-indicator {
 	display: block;
-	background: url(right.gif) center center no-repeat;
+	/*background: url(right.gif) center center no-repeat;*/
 	width: 8px;
 	height: 11px;
 	position: absolute;

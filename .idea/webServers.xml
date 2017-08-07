@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee209c05-3967-400f-8222-d27f55d264a6" name="eval.whs.aworldbridgelabs.com" url="http://localhost:63342/WHS_Eval">
+        <fileTransfer host="aworldbridgelabs.com" port="5532" rootFolder="/var/www/evalwhs/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="5532" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
